@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Kumari</h1>
 <h3 align="center">Data Science Student in IITM BS Degree program</h3>
 
-//- 🔭 I’m currently working on [Influcer Cordination App](https://github.com/sunshine-ds/Influencer-Coordination-App)
+<!--- 🔭 I’m currently working on [Influcer Cordination App](https://github.com/sunshine-ds/Influencer-Coordination-App)-->
 
 - 🌱 I’m currently learning **Flask, VueJS, Bootstrap**
 
